@@ -1,4 +1,4 @@
-# festival_des_marelles
+# festival_de_la_marelle
 Dans le cadre du Réseau des Fablab Bruxellois, nous avons accueilli Valentin Wauters (enseignant en philosophie) du projet du “Festival de la Marelle”. Il a réalisé au fablab’ke une série d’outils facilitant la peinture par toustes de marelles itératives géantes en rue. 
 
 Valentin, selon ses dires, a vécu une expérience réellement positive et enrichissante du Fablabke et de la MCCS. Selon lui, le Fablabke, avec la spécificité de ses objectifs, la pédagogie, l’énergie et l’écoute de ses employés, ainsi que son esprit bienveillant et encourageant, a été précieux et a été l’occasion d’élargir son univers. Suite à cette première expérience, il rejoindra bientôt l’univers des Fablabs. 
