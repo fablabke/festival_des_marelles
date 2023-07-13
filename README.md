@@ -5,8 +5,7 @@ Valentin, selon ses dires, a vécu une expérience réellement positive et enric
 
 Une premier résultat de cette résidence débutée en octobre, fut présenté dans le cadre d’un Dimanche à la Maison et lors de la Makerfaire 2023. Les outils développés seront également utilisés dans le cadre d’événements participatifs de mai à septembre, en Région Bruxelloise.
 
-6 kits à thème sont disponible 
-1 generateur de marelles (deux fichiers)
+6 kits à thème sont disponibles ainsi qu'1 générateur de marelle (deux fichiers SVG)
 
 ![IMG_6696](https://github.com/fablabke/festival_des_marelles/assets/21321409/a8f5a2a0-020b-486f-aafd-9ffe413dc8d6)
 ![IMG_6387](https://github.com/fablabke/festival_des_marelles/assets/21321409/f3c7af6f-dccc-4366-8d48-a828a2e6259a)
